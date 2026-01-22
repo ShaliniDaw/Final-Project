@@ -1,0 +1,4 @@
+Metric,WT_Median,MUT_Median,U_statistic,p_value,Significant
+r_peak,3.0,3.0,30.0,1.0,No
+g_peak,49881.90443126066,44215.943874952005,33.0,0.7924575424575424,No
+corr_length,9.0,9.0,27.0,0.7638561357920776,No

@@ -1,0 +1,10 @@
+from_state,to_state,probability
+large,large,0.7122507122507122
+medium,large,0.15179606025492468
+small,large,0.099609375
+large,medium,0.1781921781921782
+medium,medium,0.66558516801854
+small,medium,0.16297743055555555
+large,small,0.10955710955710955
+medium,small,0.18261877172653534
+small,small,0.7374131944444444

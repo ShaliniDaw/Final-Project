@@ -1,0 +1,10 @@
+from_state,to_state,count
+fast,fast,6727
+medium,fast,620
+slow,fast,335
+fast,medium,578
+medium,medium,2031
+slow,medium,991
+fast,slow,182
+medium,slow,514
+slow,slow,806

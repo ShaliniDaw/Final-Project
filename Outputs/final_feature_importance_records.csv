@@ -1,0 +1,345 @@
+imputation,feature_set,model,feature,importance
+zero_fill,Original + PF-SDF,RandomForest,num_frames,0.003018652973161765
+zero_fill,Original + PF-SDF,RandomForest,total_path_length,0.005822152754612606
+zero_fill,Original + PF-SDF,RandomForest,net_displacement,0.004055996160324417
+zero_fill,Original + PF-SDF,RandomForest,mean_speed,0.010818494101042138
+zero_fill,Original + PF-SDF,RandomForest,max_speed,0.008192606407902753
+zero_fill,Original + PF-SDF,RandomForest,n_stationary,0.0
+zero_fill,Original + PF-SDF,RandomForest,area_mean,0.014032176435745756
+zero_fill,Original + PF-SDF,RandomForest,area_delta_mean,0.005111016392673047
+zero_fill,Original + PF-SDF,RandomForest,area_delta_max,0.011328224583727255
+zero_fill,Original + PF-SDF,RandomForest,area_slope,0.008900041880213426
+zero_fill,Original + PF-SDF,RandomForest,perimeter_mean,0.01543488921635715
+zero_fill,Original + PF-SDF,RandomForest,perimeter_delta_mean,0.006780527793067366
+zero_fill,Original + PF-SDF,RandomForest,perimeter_delta_max,0.009132373534871868
+zero_fill,Original + PF-SDF,RandomForest,perimeter_slope,0.007782335887702089
+zero_fill,Original + PF-SDF,RandomForest,eccentricity_mean,0.021888729624066936
+zero_fill,Original + PF-SDF,RandomForest,eccentricity_delta_mean,0.009297455707234071
+zero_fill,Original + PF-SDF,RandomForest,eccentricity_delta_max,0.007634040947962903
+zero_fill,Original + PF-SDF,RandomForest,eccentricity_slope,0.020780512799095485
+zero_fill,Original + PF-SDF,RandomForest,solidity_mean,0.008718681515565567
+zero_fill,Original + PF-SDF,RandomForest,solidity_delta_mean,0.006615608637830953
+zero_fill,Original + PF-SDF,RandomForest,solidity_delta_max,0.007311702673412099
+zero_fill,Original + PF-SDF,RandomForest,solidity_slope,0.01563328286871747
+zero_fill,Original + PF-SDF,RandomForest,orientation_mean,0.07496558133954517
+zero_fill,Original + PF-SDF,RandomForest,orientation_delta_mean,0.005967094585525534
+zero_fill,Original + PF-SDF,RandomForest,orientation_delta_max,0.012177608654904542
+zero_fill,Original + PF-SDF,RandomForest,orientation_slope,0.005627224489188414
+zero_fill,Original + PF-SDF,RandomForest,r_peak,0.0
+zero_fill,Original + PF-SDF,RandomForest,g_peak,0.32593109166667944
+zero_fill,Original + PF-SDF,RandomForest,corr_length,0.3670418963688699
+zero_fill,Original + PF-SDF,GradientBoosting,num_frames,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,total_path_length,-1.4088014016455279e-19
+zero_fill,Original + PF-SDF,GradientBoosting,net_displacement,2.1862484551436123e-17
+zero_fill,Original + PF-SDF,GradientBoosting,mean_speed,1.2172044110217362e-18
+zero_fill,Original + PF-SDF,GradientBoosting,max_speed,-6.480486447569429e-20
+zero_fill,Original + PF-SDF,GradientBoosting,n_stationary,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,area_mean,4.355081307360083e-15
+zero_fill,Original + PF-SDF,GradientBoosting,area_delta_mean,4.19839723307187e-16
+zero_fill,Original + PF-SDF,GradientBoosting,area_delta_max,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,area_slope,4.779675735397824e-17
+zero_fill,Original + PF-SDF,GradientBoosting,perimeter_mean,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,perimeter_delta_mean,2.5017495290421286e-17
+zero_fill,Original + PF-SDF,GradientBoosting,perimeter_delta_max,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,perimeter_slope,2.0812850023133118e-15
+zero_fill,Original + PF-SDF,GradientBoosting,eccentricity_mean,1.3862112711701419e-16
+zero_fill,Original + PF-SDF,GradientBoosting,eccentricity_delta_mean,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,eccentricity_delta_max,1.670303117818971e-16
+zero_fill,Original + PF-SDF,GradientBoosting,eccentricity_slope,-2.113202102468292e-19
+zero_fill,Original + PF-SDF,GradientBoosting,solidity_mean,1.1921134467382191e-14
+zero_fill,Original + PF-SDF,GradientBoosting,solidity_delta_mean,8.618092160117375e-15
+zero_fill,Original + PF-SDF,GradientBoosting,solidity_delta_max,3.122555476694751e-17
+zero_fill,Original + PF-SDF,GradientBoosting,solidity_slope,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,orientation_mean,9.452212124200506e-17
+zero_fill,Original + PF-SDF,GradientBoosting,orientation_delta_mean,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,orientation_delta_max,-6.649542615766893e-19
+zero_fill,Original + PF-SDF,GradientBoosting,orientation_slope,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,r_peak,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,g_peak,0.7151372872247876
+zero_fill,Original + PF-SDF,GradientBoosting,corr_length,0.2848627127751844
+zero_fill,All Features,RandomForest,num_frames,0.002577615582069685
+zero_fill,All Features,RandomForest,total_path_length,0.0047542613177755915
+zero_fill,All Features,RandomForest,net_displacement,0.007024539211429407
+zero_fill,All Features,RandomForest,directionality_ratio,0.004194543510920219
+zero_fill,All Features,RandomForest,mean_speed,0.006918035993040906
+zero_fill,All Features,RandomForest,max_speed,0.008004218316614142
+zero_fill,All Features,RandomForest,n_stationary,0.0
+zero_fill,All Features,RandomForest,persistence_fraction,0.0019172068689000705
+zero_fill,All Features,RandomForest,alpha_x,0.0030064820326911566
+zero_fill,All Features,RandomForest,K_x,0.005385414555156643
+zero_fill,All Features,RandomForest,D_est_x,0.0033015429136861478
+zero_fill,All Features,RandomForest,P_est_x,0.000796313662217375
+zero_fill,All Features,RandomForest,alpha_y,0.0038143405054986983
+zero_fill,All Features,RandomForest,K_y,0.009139381695641867
+zero_fill,All Features,RandomForest,D_est_y,0.00341441515105652
+zero_fill,All Features,RandomForest,P_est_y,0.0010683850246913749
+zero_fill,All Features,RandomForest,alpha,0.004352395728040617
+zero_fill,All Features,RandomForest,K,0.010336059898701731
+zero_fill,All Features,RandomForest,D_est,0.0031626076996373077
+zero_fill,All Features,RandomForest,P_est,0.0009996906112791615
+zero_fill,All Features,RandomForest,area_mean,0.01610686508378024
+zero_fill,All Features,RandomForest,area_delta_mean,0.004218275991976625
+zero_fill,All Features,RandomForest,area_delta_max,0.007728969840151967
+zero_fill,All Features,RandomForest,area_slope,0.007262063586016291
+zero_fill,All Features,RandomForest,perimeter_mean,0.010961263298151756
+zero_fill,All Features,RandomForest,perimeter_delta_mean,0.003605758162662342
+zero_fill,All Features,RandomForest,perimeter_delta_max,0.00866040173793351
+zero_fill,All Features,RandomForest,perimeter_slope,0.007949019892406883
+zero_fill,All Features,RandomForest,eccentricity_mean,0.02053909804116837
+zero_fill,All Features,RandomForest,eccentricity_delta_mean,0.006628248751727707
+zero_fill,All Features,RandomForest,eccentricity_delta_max,0.008480941105722964
+zero_fill,All Features,RandomForest,eccentricity_slope,0.02190366783373803
+zero_fill,All Features,RandomForest,solidity_mean,0.009529972698719474
+zero_fill,All Features,RandomForest,solidity_delta_mean,0.0051121780600309405
+zero_fill,All Features,RandomForest,solidity_delta_max,0.005425981256712872
+zero_fill,All Features,RandomForest,solidity_slope,0.013146741650588496
+zero_fill,All Features,RandomForest,orientation_mean,0.07814864771250227
+zero_fill,All Features,RandomForest,orientation_delta_mean,0.004342998767296061
+zero_fill,All Features,RandomForest,orientation_delta_max,0.010271285957629881
+zero_fill,All Features,RandomForest,orientation_slope,0.0084071240779642
+zero_fill,All Features,RandomForest,early_speed_mean,0.005935263139580609
+zero_fill,All Features,RandomForest,late_speed_mean,0.005307314924663139
+zero_fill,All Features,RandomForest,speed_trend_slope,0.015932867556295905
+zero_fill,All Features,RandomForest,speed_acceleration,0.01305205622661013
+zero_fill,All Features,RandomForest,early_area_mean,0.0054009000830441654
+zero_fill,All Features,RandomForest,late_area_mean,0.004174486010367614
+zero_fill,All Features,RandomForest,area_trend_slope,0.009006078860319018
+zero_fill,All Features,RandomForest,area_volatility,0.008586276484744325
+zero_fill,All Features,RandomForest,early_eccentricity_mean,0.005106009481252274
+zero_fill,All Features,RandomForest,late_eccentricity_mean,0.0030281854666817758
+zero_fill,All Features,RandomForest,eccentricity_trend_slope,0.010014103010652477
+zero_fill,All Features,RandomForest,temporal_persistence,0.005398974447728481
+zero_fill,All Features,RandomForest,speed_cv,0.004943930012421161
+zero_fill,All Features,RandomForest,directional_consistency,0.002112932993603539
+zero_fill,All Features,RandomForest,r_peak,0.0
+zero_fill,All Features,RandomForest,g_peak,0.29232296914048883
+zero_fill,All Features,RandomForest,corr_length,0.2670806983756171
+zero_fill,All Features,GradientBoosting,num_frames,0.0
+zero_fill,All Features,GradientBoosting,total_path_length,0.0
+zero_fill,All Features,GradientBoosting,net_displacement,9.425585777709387e-18
+zero_fill,All Features,GradientBoosting,directionality_ratio,0.0
+zero_fill,All Features,GradientBoosting,mean_speed,-1.1833931773822414e-19
+zero_fill,All Features,GradientBoosting,max_speed,-6.480486447569417e-20
+zero_fill,All Features,GradientBoosting,n_stationary,0.0
+zero_fill,All Features,GradientBoosting,persistence_fraction,0.0
+zero_fill,All Features,GradientBoosting,alpha_x,0.0
+zero_fill,All Features,GradientBoosting,K_x,0.0
+zero_fill,All Features,GradientBoosting,D_est_x,0.0
+zero_fill,All Features,GradientBoosting,P_est_x,0.0
+zero_fill,All Features,GradientBoosting,alpha_y,0.0
+zero_fill,All Features,GradientBoosting,K_y,0.0
+zero_fill,All Features,GradientBoosting,D_est_y,0.0
+zero_fill,All Features,GradientBoosting,P_est_y,0.0
+zero_fill,All Features,GradientBoosting,alpha,0.0
+zero_fill,All Features,GradientBoosting,K,0.0
+zero_fill,All Features,GradientBoosting,D_est,0.0
+zero_fill,All Features,GradientBoosting,P_est,0.0
+zero_fill,All Features,GradientBoosting,area_mean,1.1931826565619956e-14
+zero_fill,All Features,GradientBoosting,area_delta_mean,-2.113202102468288e-19
+zero_fill,All Features,GradientBoosting,area_delta_max,0.0
+zero_fill,All Features,GradientBoosting,area_slope,0.0
+zero_fill,All Features,GradientBoosting,perimeter_mean,2.4652703777482657e-17
+zero_fill,All Features,GradientBoosting,perimeter_delta_mean,6.486966934016986e-17
+zero_fill,All Features,GradientBoosting,perimeter_delta_max,0.0
+zero_fill,All Features,GradientBoosting,perimeter_slope,3.775904736725378e-17
+zero_fill,All Features,GradientBoosting,eccentricity_mean,1.8255389442662882e-16
+zero_fill,All Features,GradientBoosting,eccentricity_delta_mean,0.0
+zero_fill,All Features,GradientBoosting,eccentricity_delta_max,1.7469137380404514e-19
+zero_fill,All Features,GradientBoosting,eccentricity_slope,2.248868268645351e-15
+zero_fill,All Features,GradientBoosting,solidity_mean,6.632115742428525e-16
+zero_fill,All Features,GradientBoosting,solidity_delta_mean,0.0
+zero_fill,All Features,GradientBoosting,solidity_delta_max,-5.466149438384639e-19
+zero_fill,All Features,GradientBoosting,solidity_slope,7.979451138920256e-18
+zero_fill,All Features,GradientBoosting,orientation_mean,4.185551781891659e-15
+zero_fill,All Features,GradientBoosting,orientation_delta_mean,0.0
+zero_fill,All Features,GradientBoosting,orientation_delta_max,0.0
+zero_fill,All Features,GradientBoosting,orientation_slope,0.0
+zero_fill,All Features,GradientBoosting,early_speed_mean,0.0
+zero_fill,All Features,GradientBoosting,late_speed_mean,-7.044007008227627e-20
+zero_fill,All Features,GradientBoosting,speed_trend_slope,4.4195156570671364e-16
+zero_fill,All Features,GradientBoosting,speed_acceleration,0.0
+zero_fill,All Features,GradientBoosting,early_area_mean,9.084419159875695e-15
+zero_fill,All Features,GradientBoosting,late_area_mean,0.0
+zero_fill,All Features,GradientBoosting,area_trend_slope,0.0
+zero_fill,All Features,GradientBoosting,area_volatility,0.0
+zero_fill,All Features,GradientBoosting,early_eccentricity_mean,0.0
+zero_fill,All Features,GradientBoosting,late_eccentricity_mean,0.0
+zero_fill,All Features,GradientBoosting,eccentricity_trend_slope,0.0
+zero_fill,All Features,GradientBoosting,temporal_persistence,0.0
+zero_fill,All Features,GradientBoosting,speed_cv,0.0
+zero_fill,All Features,GradientBoosting,directional_consistency,0.0
+zero_fill,All Features,GradientBoosting,r_peak,0.0
+zero_fill,All Features,GradientBoosting,g_peak,0.7143419279094937
+zero_fill,All Features,GradientBoosting,corr_length,0.2856580720904775
+median,Original + PF-SDF,RandomForest,num_frames,0.0030186529731617644
+median,Original + PF-SDF,RandomForest,total_path_length,0.005822373368586721
+median,Original + PF-SDF,RandomForest,net_displacement,0.004056363603544247
+median,Original + PF-SDF,RandomForest,mean_speed,0.01081860027889064
+median,Original + PF-SDF,RandomForest,max_speed,0.008192606407902751
+median,Original + PF-SDF,RandomForest,n_stationary,0.0
+median,Original + PF-SDF,RandomForest,area_mean,0.014032053926779945
+median,Original + PF-SDF,RandomForest,area_delta_mean,0.005111016392673046
+median,Original + PF-SDF,RandomForest,area_delta_max,0.011328224583727254
+median,Original + PF-SDF,RandomForest,area_slope,0.008917083453577897
+median,Original + PF-SDF,RandomForest,perimeter_mean,0.015435239775417919
+median,Original + PF-SDF,RandomForest,perimeter_delta_mean,0.006780527793067365
+median,Original + PF-SDF,RandomForest,perimeter_delta_max,0.009132373534871866
+median,Original + PF-SDF,RandomForest,perimeter_slope,0.0076415590754825334
+median,Original + PF-SDF,RandomForest,eccentricity_mean,0.021889435115234387
+median,Original + PF-SDF,RandomForest,eccentricity_delta_mean,0.009424554040132219
+median,Original + PF-SDF,RandomForest,eccentricity_delta_max,0.007634190361558526
+median,Original + PF-SDF,RandomForest,eccentricity_slope,0.020781460919394146
+median,Original + PF-SDF,RandomForest,solidity_mean,0.008719037012991135
+median,Original + PF-SDF,RandomForest,solidity_delta_mean,0.006615608637830952
+median,Original + PF-SDF,RandomForest,solidity_delta_max,0.00731196768557243
+median,Original + PF-SDF,RandomForest,solidity_slope,0.015640080513161545
+median,Original + PF-SDF,RandomForest,orientation_mean,0.0749677594197873
+median,Original + PF-SDF,RandomForest,orientation_delta_mean,0.005967606258088653
+median,Original + PF-SDF,RandomForest,orientation_delta_max,0.012177653689895353
+median,Original + PF-SDF,RandomForest,orientation_slope,0.0055974789500313525
+median,Original + PF-SDF,RandomForest,r_peak,0.0
+median,Original + PF-SDF,RandomForest,g_peak,0.32593507681938755
+median,Original + PF-SDF,RandomForest,corr_length,0.36705141540925046
+median,Original + PF-SDF,GradientBoosting,num_frames,0.0
+median,Original + PF-SDF,GradientBoosting,total_path_length,-1.4088014016455274e-19
+median,Original + PF-SDF,GradientBoosting,net_displacement,2.1862484551436117e-17
+median,Original + PF-SDF,GradientBoosting,mean_speed,1.2172044110217358e-18
+median,Original + PF-SDF,GradientBoosting,max_speed,-6.480486447569426e-20
+median,Original + PF-SDF,GradientBoosting,n_stationary,0.0
+median,Original + PF-SDF,GradientBoosting,area_mean,4.344266643400351e-15
+median,Original + PF-SDF,GradientBoosting,area_delta_mean,4.198397233071869e-16
+median,Original + PF-SDF,GradientBoosting,area_delta_max,0.0
+median,Original + PF-SDF,GradientBoosting,area_slope,5.651371602665992e-17
+median,Original + PF-SDF,GradientBoosting,perimeter_mean,0.0
+median,Original + PF-SDF,GradientBoosting,perimeter_delta_mean,2.501749529042128e-17
+median,Original + PF-SDF,GradientBoosting,perimeter_delta_max,0.0
+median,Original + PF-SDF,GradientBoosting,perimeter_slope,2.080323495356688e-15
+median,Original + PF-SDF,GradientBoosting,eccentricity_mean,1.3862112711701414e-16
+median,Original + PF-SDF,GradientBoosting,eccentricity_delta_mean,0.0
+median,Original + PF-SDF,GradientBoosting,eccentricity_delta_max,1.892189338578141e-16
+median,Original + PF-SDF,GradientBoosting,eccentricity_slope,-2.1132021024682912e-19
+median,Original + PF-SDF,GradientBoosting,solidity_mean,1.1991022287315019e-14
+median,Original + PF-SDF,GradientBoosting,solidity_delta_mean,8.609132183202905e-15
+median,Original + PF-SDF,GradientBoosting,solidity_delta_max,3.1225554766947504e-17
+median,Original + PF-SDF,GradientBoosting,solidity_slope,0.0
+median,Original + PF-SDF,GradientBoosting,orientation_mean,9.452212124200504e-17
+median,Original + PF-SDF,GradientBoosting,orientation_delta_mean,0.0
+median,Original + PF-SDF,GradientBoosting,orientation_delta_max,-6.649542615766891e-19
+median,Original + PF-SDF,GradientBoosting,orientation_slope,0.0
+median,Original + PF-SDF,GradientBoosting,r_peak,0.0
+median,Original + PF-SDF,GradientBoosting,g_peak,0.7151372872247874
+median,Original + PF-SDF,GradientBoosting,corr_length,0.2848627127751845
+median,All Features,RandomForest,num_frames,0.002283219703668293
+median,All Features,RandomForest,total_path_length,0.007091269948204757
+median,All Features,RandomForest,net_displacement,0.006409445957201286
+median,All Features,RandomForest,directionality_ratio,0.0037479106984911917
+median,All Features,RandomForest,mean_speed,0.008751256772199218
+median,All Features,RandomForest,max_speed,0.00737366868915995
+median,All Features,RandomForest,n_stationary,0.0
+median,All Features,RandomForest,persistence_fraction,0.003387356612571737
+median,All Features,RandomForest,alpha_x,0.0036869533167192196
+median,All Features,RandomForest,K_x,0.007340430719894404
+median,All Features,RandomForest,D_est_x,0.004029783336874722
+median,All Features,RandomForest,P_est_x,0.0011154410789144373
+median,All Features,RandomForest,alpha_y,0.0017906675807175922
+median,All Features,RandomForest,K_y,0.009726397728951662
+median,All Features,RandomForest,D_est_y,0.004601108012872314
+median,All Features,RandomForest,P_est_y,0.0009914409763260893
+median,All Features,RandomForest,alpha,0.002840569761063981
+median,All Features,RandomForest,K,0.013745241783307088
+median,All Features,RandomForest,D_est,0.005081541722309832
+median,All Features,RandomForest,P_est,0.0016378377376477717
+median,All Features,RandomForest,area_mean,0.0132697446281592
+median,All Features,RandomForest,area_delta_mean,0.0026008085692337843
+median,All Features,RandomForest,area_delta_max,0.009013731024450628
+median,All Features,RandomForest,area_slope,0.006102519555099446
+median,All Features,RandomForest,perimeter_mean,0.00974385834116836
+median,All Features,RandomForest,perimeter_delta_mean,0.0037465571193705093
+median,All Features,RandomForest,perimeter_delta_max,0.007102375722046795
+median,All Features,RandomForest,perimeter_slope,0.008738839710966253
+median,All Features,RandomForest,eccentricity_mean,0.019441801941307967
+median,All Features,RandomForest,eccentricity_delta_mean,0.00708063628291531
+median,All Features,RandomForest,eccentricity_delta_max,0.008088103676136132
+median,All Features,RandomForest,eccentricity_slope,0.01836367351754378
+median,All Features,RandomForest,solidity_mean,0.01033211861900469
+median,All Features,RandomForest,solidity_delta_mean,0.006440990419644487
+median,All Features,RandomForest,solidity_delta_max,0.008519389704400781
+median,All Features,RandomForest,solidity_slope,0.014043947764922382
+median,All Features,RandomForest,orientation_mean,0.0687158587947263
+median,All Features,RandomForest,orientation_delta_mean,0.004352940110739646
+median,All Features,RandomForest,orientation_delta_max,0.00820204631240054
+median,All Features,RandomForest,orientation_slope,0.006782436487133334
+median,All Features,RandomForest,early_speed_mean,0.00605806819346483
+median,All Features,RandomForest,late_speed_mean,0.008571915103835103
+median,All Features,RandomForest,speed_trend_slope,0.015593672779243445
+median,All Features,RandomForest,speed_acceleration,0.011924915771188843
+median,All Features,RandomForest,early_area_mean,0.0052898675507526026
+median,All Features,RandomForest,late_area_mean,0.005428359879672765
+median,All Features,RandomForest,area_trend_slope,0.007395807246791014
+median,All Features,RandomForest,area_volatility,0.008843505156847637
+median,All Features,RandomForest,early_eccentricity_mean,0.00536550609929233
+median,All Features,RandomForest,late_eccentricity_mean,0.004131115369643075
+median,All Features,RandomForest,eccentricity_trend_slope,0.011156107457537132
+median,All Features,RandomForest,temporal_persistence,0.004415707830798402
+median,All Features,RandomForest,speed_cv,0.00371501610658436
+median,All Features,RandomForest,directional_consistency,0.002666517923403946
+median,All Features,RandomForest,r_peak,0.0
+median,All Features,RandomForest,g_peak,0.27970119132474686
+median,All Features,RandomForest,corr_length,0.28342880576773183
+median,All Features,GradientBoosting,num_frames,0.0
+median,All Features,GradientBoosting,total_path_length,5.5044688365094e-16
+median,All Features,GradientBoosting,net_displacement,9.425585777709393e-18
+median,All Features,GradientBoosting,directionality_ratio,0.0
+median,All Features,GradientBoosting,mean_speed,-1.183393177382242e-19
+median,All Features,GradientBoosting,max_speed,-6.480486447569421e-20
+median,All Features,GradientBoosting,n_stationary,0.0
+median,All Features,GradientBoosting,persistence_fraction,0.0
+median,All Features,GradientBoosting,alpha_x,1.1102132703340454e-14
+median,All Features,GradientBoosting,K_x,0.0
+median,All Features,GradientBoosting,D_est_x,0.0
+median,All Features,GradientBoosting,P_est_x,0.0
+median,All Features,GradientBoosting,alpha_y,0.0
+median,All Features,GradientBoosting,K_y,0.0
+median,All Features,GradientBoosting,D_est_y,0.0
+median,All Features,GradientBoosting,P_est_y,0.0
+median,All Features,GradientBoosting,alpha,0.0
+median,All Features,GradientBoosting,K,0.0
+median,All Features,GradientBoosting,D_est,6.344677992450792e-17
+median,All Features,GradientBoosting,P_est,0.0
+median,All Features,GradientBoosting,area_mean,0.0
+median,All Features,GradientBoosting,area_delta_mean,0.0
+median,All Features,GradientBoosting,area_delta_max,0.0
+median,All Features,GradientBoosting,area_slope,0.0
+median,All Features,GradientBoosting,perimeter_mean,3.1157403999142873e-17
+median,All Features,GradientBoosting,perimeter_delta_mean,0.0
+median,All Features,GradientBoosting,perimeter_delta_max,0.0
+median,All Features,GradientBoosting,perimeter_slope,3.630622092180686e-17
+median,All Features,GradientBoosting,eccentricity_mean,1.9998781177199231e-16
+median,All Features,GradientBoosting,eccentricity_delta_mean,-2.218862207591704e-19
+median,All Features,GradientBoosting,eccentricity_delta_max,5.671904883094971e-17
+median,All Features,GradientBoosting,eccentricity_slope,0.0
+median,All Features,GradientBoosting,solidity_mean,9.402029209472478e-15
+median,All Features,GradientBoosting,solidity_delta_mean,0.0
+median,All Features,GradientBoosting,solidity_delta_max,-5.466149438384642e-19
+median,All Features,GradientBoosting,solidity_slope,2.435535863164786e-17
+median,All Features,GradientBoosting,orientation_mean,4.13895990193644e-15
+median,All Features,GradientBoosting,orientation_delta_mean,0.0
+median,All Features,GradientBoosting,orientation_delta_max,0.0
+median,All Features,GradientBoosting,orientation_slope,0.0
+median,All Features,GradientBoosting,early_speed_mean,0.0
+median,All Features,GradientBoosting,late_speed_mean,2.254875045621618e-15
+median,All Features,GradientBoosting,speed_trend_slope,4.198397233071865e-16
+median,All Features,GradientBoosting,speed_acceleration,0.0
+median,All Features,GradientBoosting,early_area_mean,0.0
+median,All Features,GradientBoosting,late_area_mean,0.0
+median,All Features,GradientBoosting,area_trend_slope,0.0
+median,All Features,GradientBoosting,area_volatility,-2.1132021024682893e-19
+median,All Features,GradientBoosting,early_eccentricity_mean,0.0
+median,All Features,GradientBoosting,late_eccentricity_mean,5.401908094469606e-17
+median,All Features,GradientBoosting,eccentricity_trend_slope,0.0
+median,All Features,GradientBoosting,temporal_persistence,0.0
+median,All Features,GradientBoosting,speed_cv,0.0
+median,All Features,GradientBoosting,directional_consistency,0.0
+median,All Features,GradientBoosting,r_peak,0.0
+median,All Features,GradientBoosting,g_peak,0.7146078288380389
+median,All Features,GradientBoosting,corr_length,0.2853921711619329

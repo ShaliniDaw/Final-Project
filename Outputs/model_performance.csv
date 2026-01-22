@@ -1,0 +1,73 @@
+imputation,feature_set,model,cv_strategy,n_features,cv_mean,cv_std
+zero_fill,Original,LogisticRegression,StratifiedKFold,26,0.6603333168216018,0.0003795118926261187
+zero_fill,Original,LogisticRegression,GroupKFold,26,0.6012356732808265,0.2295246923240057
+zero_fill,Original,RandomForest,StratifiedKFold,26,0.6598632828624738,0.004311368928244133
+zero_fill,Original,RandomForest,GroupKFold,26,0.5873700022098844,0.20650287773110307
+zero_fill,Original,GradientBoosting,StratifiedKFold,26,0.6622109758983757,0.0050501561668068
+zero_fill,Original,GradientBoosting,GroupKFold,26,0.5387268792649109,0.15270005932477698
+zero_fill,Original + Temporal,LogisticRegression,StratifiedKFold,42,0.6603333168216018,0.0003795118926261187
+zero_fill,Original + Temporal,LogisticRegression,GroupKFold,42,0.6341256370051312,0.24852234967261125
+zero_fill,Original + Temporal,RandomForest,StratifiedKFold,42,0.6622104255073229,0.004068289621955654
+zero_fill,Original + Temporal,RandomForest,GroupKFold,42,0.5956101573377006,0.20700243402657176
+zero_fill,Original + Temporal,GradientBoosting,StratifiedKFold,42,0.6636177754294426,0.004609143918320482
+zero_fill,Original + Temporal,GradientBoosting,GroupKFold,42,0.5351164839201248,0.15626859157193904
+zero_fill,Original + Diffusion,LogisticRegression,StratifiedKFold,38,0.6600988502330907,0.0007136077361127285
+zero_fill,Original + Diffusion,LogisticRegression,GroupKFold,38,0.6336390190002651,0.24780682672198887
+zero_fill,Original + Diffusion,RandomForest,StratifiedKFold,38,0.6584575841135127,0.004195191573316522
+zero_fill,Original + Diffusion,RandomForest,GroupKFold,38,0.5989734794946033,0.20959821495179848
+zero_fill,Original + Diffusion,GradientBoosting,StratifiedKFold,38,0.6629163020325941,0.006425934140102163
+zero_fill,Original + Diffusion,GradientBoosting,GroupKFold,38,0.5391537067931574,0.1557202540700262
+zero_fill,Original + PF-SDF,LogisticRegression,StratifiedKFold,29,0.6603333168216018,0.0003795118926261187
+zero_fill,Original + PF-SDF,LogisticRegression,GroupKFold,29,0.5466035197615375,0.38484211827414666
+zero_fill,Original + PF-SDF,RandomForest,StratifiedKFold,29,0.8099995046480524,0.018403423522848596
+zero_fill,Original + PF-SDF,RandomForest,GroupKFold,29,0.324780912145241,0.17341507808589757
+zero_fill,Original + PF-SDF,GradientBoosting,StratifiedKFold,29,1.0,0.0
+zero_fill,Original + PF-SDF,GradientBoosting,GroupKFold,29,0.3519118324374847,0.12700070024899945
+zero_fill,Original + Injury,LogisticRegression,StratifiedKFold,26,0.6603333168216018,0.0003795118926261187
+zero_fill,Original + Injury,LogisticRegression,GroupKFold,26,0.6012356732808265,0.2295246923240057
+zero_fill,Original + Injury,RandomForest,StratifiedKFold,26,0.6598632828624738,0.004311368928244133
+zero_fill,Original + Injury,RandomForest,GroupKFold,26,0.5873700022098844,0.20650287773110307
+zero_fill,Original + Injury,GradientBoosting,StratifiedKFold,26,0.6622109758983757,0.0050501561668068
+zero_fill,Original + Injury,GradientBoosting,GroupKFold,26,0.5387268792649109,0.15270005932477698
+zero_fill,All Features,LogisticRegression,StratifiedKFold,57,0.6600988502330907,0.0007136077361127285
+zero_fill,All Features,LogisticRegression,GroupKFold,57,0.4989788131143643,0.24052699472244807
+zero_fill,All Features,RandomForest,StratifiedKFold,57,0.7016181496953585,0.011793760338111256
+zero_fill,All Features,RandomForest,GroupKFold,57,0.4014938814282723,0.19809794082836588
+zero_fill,All Features,GradientBoosting,StratifiedKFold,57,1.0,0.0
+zero_fill,All Features,GradientBoosting,GroupKFold,57,0.3519118324374847,0.12700070024899945
+median,Original,LogisticRegression,StratifiedKFold,26,0.6603333168216018,0.0003795118926261187
+median,Original,LogisticRegression,GroupKFold,26,0.6012356732808265,0.2295246923240057
+median,Original,RandomForest,StratifiedKFold,26,0.6596288162739625,0.004453334241287423
+median,Original,RandomForest,GroupKFold,26,0.5888230944917142,0.20673318832362034
+median,Original,GradientBoosting,StratifiedKFold,26,0.6612720087622256,0.004101868998921634
+median,Original,GradientBoosting,GroupKFold,26,0.5401737781353508,0.15343503607634673
+median,Original + Temporal,LogisticRegression,StratifiedKFold,42,0.6603333168216018,0.0003795118926261187
+median,Original + Temporal,LogisticRegression,GroupKFold,42,0.6297725535710321,0.24508052782008985
+median,Original + Temporal,RandomForest,StratifiedKFold,42,0.6615067505462632,0.004364409483768747
+median,Original + Temporal,RandomForest,GroupKFold,42,0.595351876664552,0.20731673275595996
+median,Original + Temporal,GradientBoosting,StratifiedKFold,42,0.6608028003896769,0.005481688389077403
+median,Original + Temporal,GradientBoosting,GroupKFold,42,0.538566533216057,0.15683697348977876
+median,Original + Diffusion,LogisticRegression,StratifiedKFold,38,0.6600988502330907,0.0007136077361127285
+median,Original + Diffusion,LogisticRegression,GroupKFold,38,0.6348482088430704,0.24881362170110957
+median,Original + Diffusion,RandomForest,StratifiedKFold,38,0.657988375740964,0.004525681423831149
+median,Original + Diffusion,RandomForest,GroupKFold,38,0.594610430927996,0.20742733116177858
+median,Original + Diffusion,GradientBoosting,StratifiedKFold,38,0.6645589441298042,0.008611633697911967
+median,Original + Diffusion,GradientBoosting,GroupKFold,38,0.5348838408464518,0.1554990978135363
+median,Original + PF-SDF,LogisticRegression,StratifiedKFold,29,0.6603333168216018,0.0003795118926261187
+median,Original + PF-SDF,LogisticRegression,GroupKFold,29,0.5466035197615375,0.38484211827414666
+median,Original + PF-SDF,RandomForest,StratifiedKFold,29,0.8097650380595413,0.01825841513054438
+median,Original + PF-SDF,RandomForest,GroupKFold,29,0.32427100714014195,0.17330338733261597
+median,Original + PF-SDF,GradientBoosting,StratifiedKFold,29,1.0,0.0
+median,Original + PF-SDF,GradientBoosting,GroupKFold,29,0.3519118324374847,0.12700070024899945
+median,Original + Injury,LogisticRegression,StratifiedKFold,26,0.6603333168216018,0.0003795118926261187
+median,Original + Injury,LogisticRegression,GroupKFold,26,0.6012356732808265,0.2295246923240057
+median,Original + Injury,RandomForest,StratifiedKFold,26,0.6596288162739625,0.004453334241287423
+median,Original + Injury,RandomForest,GroupKFold,26,0.5888230944917142,0.20673318832362034
+median,Original + Injury,GradientBoosting,StratifiedKFold,26,0.6612720087622256,0.004101868998921634
+median,Original + Injury,GradientBoosting,GroupKFold,26,0.5401737781353508,0.15343503607634673
+median,All Features,LogisticRegression,StratifiedKFold,57,0.6600988502330907,0.0007136077361127285
+median,All Features,LogisticRegression,GroupKFold,57,0.49460660623992886,0.24193236518228922
+median,All Features,RandomForest,StratifiedKFold,57,0.71193688115406,0.02022188569329432
+median,All Features,RandomForest,GroupKFold,57,0.38389385491937084,0.1443840205783488
+median,All Features,GradientBoosting,StratifiedKFold,57,1.0,0.0
+median,All Features,GradientBoosting,GroupKFold,57,0.3519118324374847,0.12700070024899945

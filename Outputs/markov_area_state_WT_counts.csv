@@ -1,0 +1,10 @@
+from_state,to_state,count
+large,large,4745
+medium,large,1082
+small,large,693
+large,medium,1132
+medium,medium,5175
+small,medium,1226
+large,small,683
+medium,small,1255
+small,small,5122
