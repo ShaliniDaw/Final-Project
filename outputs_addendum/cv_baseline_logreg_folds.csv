@@ -1,0 +1,11 @@
+cv,fold,acc,bal_acc,roc_auc
+StratifiedKFold,0,0.670574,0.725363,0.78655
+StratifiedKFold,1,0.695193,0.723948,0.798365
+StratifiedKFold,2,0.690504,0.737952,0.783408
+StratifiedKFold,3,0.691315,0.72854,0.769371
+StratifiedKFold,4,0.653756,0.697594,0.76623
+GroupKFold_by_stack,0,0.028249,0.029312,0.006863
+GroupKFold_by_stack,1,0.021898,0.021898,
+GroupKFold_by_stack,2,0.489549,0.468677,0.430734
+GroupKFold_by_stack,3,0.180169,0.180169,
+GroupKFold_by_stack,4,0.713415,0.772105,0.95461

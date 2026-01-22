@@ -1,0 +1,16 @@
+section,metric,value
+data,n_rows,4263.0
+data,n_features,87.0
+data,n_stacks,16.0
+data,pct_missing_overall_features,29.119
+transforms,n_log1p_features,38.0
+labels,count_WT,2815.0
+labels,count_MUT,1448.0
+cv,0_acc_mean,0.6803
+cv,0_bal_acc_mean,0.7227
+cv,0_acc_std,0.0158
+cv,0_bal_acc_std,0.0135
+cv,1_acc_mean,0.2867
+cv,1_bal_acc_mean,0.2944
+cv,1_acc_std,0.2726
+cv,1_bal_acc_std,0.2885

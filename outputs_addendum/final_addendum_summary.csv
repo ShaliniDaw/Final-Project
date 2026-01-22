@@ -1,0 +1,11 @@
+section,item,value
+Data,Tracks (rows),4263.0
+Data,Features used,87.0
+Data,Stacks (videos),16.0
+Preprocess,Overall missingness (%),29.119
+Preprocess,log1p-transformed features,38.0
+Labels,WT count,2815.0
+Labels,MUT count,1448.0
+CV,Best CV (by bal_acc_mean),StratifiedKFold
+CV,Best bal_acc_mean,0.7227
+Importance,"Top feature (perm, bal_acc drop)",D_est
